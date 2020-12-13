@@ -1,2 +1,2 @@
-# PracowniaProgramowania
+# Pracownia Programowania
 
